@@ -224,7 +224,7 @@ li {
 
   .social {
     padding-left: 30px;
-    margin-top: 20px;      
+    margin-top: 25px;      
   }
 
   .arrow {
@@ -236,8 +236,8 @@ li {
     border-top-left-radius: 0px;
     border-top-right-radius: 0px;
     width: 300px;
-    height: 66px;
-    transform: translate(0%, -78%);    
+    height: 76px;
+    transform: translate(0%, -73%);    
   }
 
   .share::after {
